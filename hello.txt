@@ -1,0 +1,4 @@
+hello
+
+2026/03/25 21:19:21 WARN Ripgrep (rg) not found in $PATH. Some features might be limited or slower.
+2026/03/25 21:19:21 WARN FZF not found in $PATH. Some features might be limited or slower.
